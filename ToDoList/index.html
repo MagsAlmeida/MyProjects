@@ -5,19 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To do list</title>
-
     <link rel="stylesheet" href="main.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 
 </head>
 <body>
-
+    
+    <img src = "/ToDoList/logo_transparent.png" alt = "logo_transparent" >
+    
     <header>
-    
-        <h1>To do list</h1>
-    
-        <form id="new-task-form"></form>
-    
-        <input 
+        <h1>THINGS TO DO!</h1>
+        <form id="new-task-form">
+            <input 
                 type="text" 
                 name="new-task-input"
                 id="new-task-input"
@@ -26,35 +25,31 @@
                 type="submit"
                 id="new-task-submit"
                 value="Add task"/>   
-            </form>
+        </form>
     </header>
-  <main>
-
-<section class="task-list">
-   <h2>Tasks</h2> 
-            
-        <div id="tasks">
-       
-            <!-- <div class="task">
-             <div class="content">
-            <input 
-                type="text" 
-                class="text"
-                value="My VIP task"
-                readonly
-                />
-            </div>
-            <div class="actions">
-                <button class="edit" >Edit</button>
-                <button class="delete">Delete</button>
-            </div>
+  
+    <main>
+        <section class="task-list">
+            <h2>Tasks</h2> 
+            <div id="tasks">
+                <!-- <div class="task">
+                    <div class="content">
+                        <input 
+                            type="text" 
+                            class="text"
+                            value="My VIP task"
+                            readonly
+                            />
+                    </div>
+                    <div class="actions">
+                        <button class="edit" >Edit</button>
+                        <button class="delete">Delete</button>
+                    </div>
                 
-        </div> -->
-        </div>
-
-    </section>
-</main>
-
-        <script src="main.js"></script>
-    </body>
+                </div> -->
+            </div>
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
 </html>

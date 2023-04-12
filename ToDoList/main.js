@@ -1,4 +1,6 @@
-window.localStorage.getItem(key ,"String");
+
+const data = localStorage.getItem('myData');
+console.log(data); // prints the value of the 'myData' key to the console
 
 window.addEventListener('load', () => {
 	const form = document.querySelector("#new-task-form");
@@ -61,7 +63,5 @@ window.addEventListener('load', () => {
 			list_el.removeChild(task_el);
 		});
 	});
+
 });
-
-
-/* https://www.youtube.com/watch?v=MkESyVB4oUw */
