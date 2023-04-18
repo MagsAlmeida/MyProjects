@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! My name is Margarida, and I'm a Junior Fullstack developer who is <br>passionate about Outsystems. I'm excited to be starting a new path in the tech <br>industry, and I'm eager to learn more about this platform.<br>While I'm still honing my technical skills, I'm actively practicing and working on <br>personal projects to improve my abilities with Outsystems. <br>When I'm not coding, I enjoy reading books and watching movies to relax and unwind. <br>I'm always eager to connect with others and learn from their experiences. 
+Hello there! My name is Margarida, and I'm a Junior Fullstack developer who is <br>passionate about programming. I'm excited to be starting a new path in the tech <br>industry, and I'm eager to learn more about this platform.<br>While I'm still honing my technical skills, I'm actively practicing and working on <br>personal projects to improve my abilities with Outsystems. <br>When I'm not coding, I enjoy reading books and watching movies to relax and unwind. <br>I'm always eager to connect with others and learn from their experiences. 
 
 
 ## 🌐 Socials:
