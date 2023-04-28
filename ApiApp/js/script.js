@@ -29,7 +29,7 @@ const toggleLoader = () => {
 const getWeatherData = async (city) => {
   toggleLoader();
 
-  const apiWeatherURL = `api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=b4d30c79ad5dc6b71d93bd7a09b53df8`;
+ 
 
   const res = await fetch(apiWeatherURL);
   const data = await res.json();
